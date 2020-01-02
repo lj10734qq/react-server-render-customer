@@ -1,0 +1,24 @@
+{
+  "name": "react-server-render-customer",
+  "version": "1.0.0",
+  "description": "this is react-server-render project, created by customer contructor way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lj10734qq/react-server-render-customer.git"
+  },
+  "keywords": [
+    "server",
+    "render",
+    "react"
+  ],
+  "author": "linjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lj10734qq/react-server-render-customer/issues"
+  },
+  "homepage": "https://github.com/lj10734qq/react-server-render-customer#readme"
+}
